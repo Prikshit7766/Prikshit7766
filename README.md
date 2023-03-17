@@ -44,7 +44,7 @@ Here are some of the skills I have acquired through my data science journey:
 
 Take a look at some of my data science projects:
 
-- [TalentHive](https://github.com/Prikshit7766/Job-Recomendation): currently working
+- [TalentHive](https://github.com/Prikshit7766/Job-Recomendation)
 - [bcc-news-classification](https://github.com/Prikshit7766/Bcc-news-classification): currently working
 - [NLPify](https://github.com/Prikshit7766/NLPify)
 - [APS-Failure-Detection](https://github.com/Prikshit7766/APS-Failure-Detection)
