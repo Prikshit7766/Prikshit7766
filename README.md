@@ -11,11 +11,10 @@ I am a passionate learner, always looking to explore new fields and technologies
 
 
 - 🌱 I’m currently learning **Data Science**
-
 <br>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prikshit7766&show_icons=true&locale=en&layout=compact" alt="prikshit7766" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prikshit7766&show_icons=true&locale=en&layout=compact" alt="prikshit7766" />
 </p>
 
 <p align="center">
@@ -23,5 +22,5 @@ I am a passionate learner, always looking to explore new fields and technologies
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prikshit7766&" alt="prikshit7766" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prikshit7766" alt="prikshit7766" />
 </p>
