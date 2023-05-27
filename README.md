@@ -14,6 +14,6 @@ I am a passionate learner, always looking to explore new fields and technologies
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prikshit7766&show_icons=true&locale=en" alt="prikshit7766" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prikshit7766" alt="prikshit7766" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prikshit7766&show_icons=true&locale=en" alt="prikshit7766" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prikshit7766" alt="prikshit7766" width="400" height="200" />
 </div>
