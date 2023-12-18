@@ -1,7 +1,7 @@
-# Data Science Adventures
+
+![prompthero](https://github.com/Prikshit7766/Prikshit7766/assets/101416953/8f72a81c-bb33-41ed-b8d9-e6bb12ac3069)
 
 <h1 align="center">Hi 👋, I'm Prikshit</h1>
-
 Welcome to my data science GitHub repository! Here, I document my journey as a data science enthusiast, sharing my learnings, insights, and projects along the way.
 
 ## About Me
